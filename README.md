@@ -22,9 +22,7 @@ Play Unity:https://play.unity.com/en/games/0b5d170b-f3ae-4e73-9ba1-29cc3edd2a69/
 
 # Control:
 
-# !\[Texto Alternativo](https://static.vecteezy.com/ti/vetor-gratis/p1/36660105-clique-esquerdo-do-mouse-gratis-vetor.png)
-
-
+# LMB / M1
 
 
 
